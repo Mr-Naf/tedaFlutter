@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "683125692948",
+    "project_id": "tedaapp-ad4f8",
+    "storage_bucket": "tedaapp-ad4f8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683125692948:android:6f2217d21d9079769f6501",
+        "android_client_info": {
+          "package_name": "com.example.my_flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANFyz7qlT71BimfLUbxb3n0h9FYuAJF48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
